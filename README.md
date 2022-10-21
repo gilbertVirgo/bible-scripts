@@ -1,3 +1,3 @@
 # bible-scripts
 
-A command line tool that will scrape a given passage.
+A command line tool that will scrape a given bible passage from biblegateway.com.
