@@ -1,0 +1,30 @@
+.chapternum {
+	font-size: 2.4rem;
+	position: relative;
+	line-height: 0.8em;
+	bottom: -0.1em;
+	left: 0;
+	text-indent: 0;
+
+	font-weight: bold;
+}
+
+h3 {
+	color: #000;
+	letter-spacing: 0;
+	font-weight: 700;
+	font-size: 1.5rem;
+	text-transform: none;
+	font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell,
+		Noto Sans, sans-serif, Arial;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.versenum {
+	font-weight: 700;
+}
+
+.passage-content.passage-class-0 {
+	padding: 40px 60px;
+}
