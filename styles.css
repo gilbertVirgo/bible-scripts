@@ -28,3 +28,7 @@ h3 {
 .passage-content.passage-class-0 {
 	padding: 40px 60px;
 }
+
+div.text-html p {
+	line-height: 2.5;
+}
